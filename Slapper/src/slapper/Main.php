@@ -34,6 +34,7 @@ use slapper\entities\other\SlapperBoat;
 use slapper\entities\other\SlapperFallingSand;
 use slapper\entities\other\SlapperMinecart;
 use slapper\entities\other\SlapperPrimedTNT;
+use slapper\entities\other\SlapperEndCrystal
 
 use slapper\entities\SlapperBat;
 use slapper\entities\SlapperBlaze;
